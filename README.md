@@ -1,7 +1,7 @@
 # Create a mini Reddit webpage using React and Redux.
 
 ## Project Requirements:
-- [] Build the application using React and Redux
+- [ ] Build the application using React and Redux
 
 - [] Version control your application with Git and host the repository on GitHub
 
